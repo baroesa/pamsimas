@@ -1,13 +1,13 @@
 # Aplikasi pamsimas
 Aplikasi Client Server Pengelolaan Pamsimas Gampong Peunayan Kec. Nisam Tahun 2024
 
-# Server
-Menggunakan CodeIgniter v. 3.1.1
+# Backend
+Menggunakan CodeIgniter v. 3.1.1 (Versi Web)
 
-# Client
-Menggunakan Ionic v 7.0
+# Frontend
+Menggunakan Ionic v 7.0 (Aplikasi Android)
 
-# Fiture
+# Fiture Backend
 1. Pendataan Users
 2. Pendataan Layanan Air
 3. Pendataan Pelanggan
@@ -17,5 +17,11 @@ Menggunakan Ionic v 7.0
 7. Laporan Pemasukan
 8. Laporan Pengeluaran
 
-# Cara Clone
+# Fiture Frontend
+1. Page Login
+2. Page Pencatatan Meteran
+3. Page Pencatatan Tagihan
+4. Page Laporan Tunggakan
+
+# Cara Install
 
